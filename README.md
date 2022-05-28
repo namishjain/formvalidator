@@ -5,13 +5,7 @@ This is script which has a function named validateForm which will validate wheth
 
 ## How to Use
 
-To use it, add this HTML code in your `.html file`
-
-```bash
-  <script src="https://namishjain.epizy.com/scripts/validateform.js">
-  </script>
-```
-    
+To use it, Download this file from the `github.com/namishjain/formvalidator`
 
 
 
